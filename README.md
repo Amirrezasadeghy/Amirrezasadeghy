@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Amirrezasadeghy
 - 👀 I’m interested in web design and development 
 - 🌱 I’m currently learning React.js and React native
-- 💞️ I’m looking to collaborate on any React project
 - 😄 Pronouns: He/Him
 
 <!---
